@@ -1,0 +1,12 @@
+{
+  "name": "mowarsi",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mowarsi": "npm install -g @owais786warsi/mowarsi && mowarsi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
